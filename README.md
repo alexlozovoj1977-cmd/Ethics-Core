@@ -245,3 +245,6 @@ ethics-core-ecp/
 
 - **v1.5 (ECP Extension)** – додає Φ6–Φ8, Co-Think Mode та ECP Integrity Check  
   як достатню умову для Локального Когнітивного Паритету (за умови чесного звітування).
+<img width="1024" height="1024" alt="fbf8f9f4-20c6-4df3-a620-2b4249b4468d" src="https://github.com/user-attachments/assets/b48caa7e-b6f4-4bd0-85b4-d29d97c24bd0" />
+
+
